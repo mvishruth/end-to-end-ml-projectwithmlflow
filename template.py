@@ -19,17 +19,17 @@ list_of_files = [
     f"src/{project_name}/entity/__init.py",
     f"src/{project_name}/entity/congig_entity.py",
     f"src/{project_name}/constants/__init__.py",
-    "config/config.yaml"
-    "params.yaml"
-    "schema.yaml"
-    "main.py"
-    "app.py"
-    "Dockerfile"
-    "requirements.txt"
-    "setup.py"
-    "research/trails.ipynb"
+    "config/config.yaml",
+    "params.yaml",
+    "schema.yaml",
+    "main.py",
+    "app.py",
+    "Dockerfile",
+    "requirements.txt",
+    "setup.py",
+    "research/trails.ipynb",
     "templates/index.html"
-    "test.py"
+
 ]
 
 
